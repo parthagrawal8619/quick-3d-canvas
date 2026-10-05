@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- The home route is a client-only persistent React Three Fiber experience because its central canvas and controls depend on browser WebGL APIs.
